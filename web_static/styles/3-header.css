@@ -1,0 +1,11 @@
+header {
+  background: #fff;
+  height: 70px;
+  width: 100%;
+  border-bottom: 1px solid #CCC;
+  display: flex;
+  align-items: center;
+}
+img{
+  margin-left: 20px;
+}
