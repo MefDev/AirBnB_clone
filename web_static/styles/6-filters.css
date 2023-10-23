@@ -33,10 +33,10 @@ div{
     justify-content: center;
    
 }
-.locations, .amenities{
+.locations, .filters .amenities{
     position: relative;
 }
-.amenities{
+.filters .amenities{
     border-left: 1px solid #DDD;
     width: 75%;
 }
@@ -60,7 +60,7 @@ div{
     top:3.5rem;
     left: 0;
 }
-.amenities:hover .popover{
+.filters .amenities:hover .popover{
     padding: 2rem 4rem 2rem 2%;
     width: 25%;
 }
